@@ -1,5 +1,5 @@
 # Eae, bem vindo!
-- Atualmente estou no 2º ano de Ciência da Computação na [UEL](https://portal.uel.br/home/).
+- Atualmente estou no 3º ano de Ciência da Computação na [UEL](https://portal.uel.br/home/).
 - Sou estagiário de Desenvolvimento na [NRisk](https://www.nrisklog.com.br/)
 
 ---
@@ -16,7 +16,6 @@
   <img align="center" alt="Pedro-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Pedro-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Pedro-Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Pedro-PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
  
 ---
